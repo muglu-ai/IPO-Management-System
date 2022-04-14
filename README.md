@@ -5,3 +5,5 @@ The application is made using python and consists of a GUI.
 
 # Technologies Used:
 (i)Python (ii) SQLite
+
+![](Dashboard.png) 
